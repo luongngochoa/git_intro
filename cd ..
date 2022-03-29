@@ -1,0 +1,26 @@
+[33mcommit 85e7ea49a8993ce96711933c8265819406963f26[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d48d3e8 8d24324
+Author: luongngochoa <81282520+luongngochoa@users.noreply.github.com>
+Date:   Tue Mar 29 16:37:03 2022 +0700
+
+    Merge pull request #1 from luongngochoa/circle_area
+    
+    feat(calculation) add circle area
+
+[33mcommit 8d24324bea694fc512e6e6a5df1a8c73966b8be0[m[33m ([m[1;31morigin/circle_area[m[33m)[m
+Author: luongngochoa <hoangocluong181197@gmail.com>
+Date:   Tue Mar 29 16:35:06 2022 +0700
+
+    fix(calculation) fix wrong function
+
+[33mcommit 7c0eab25e35e1dc44044f4ae05c16a703f734c5e[m
+Author: luongngochoa <hoangocluong181197@gmail.com>
+Date:   Tue Mar 29 16:12:16 2022 +0700
+
+    feat(calculation) add circle area
+
+[33mcommit d48d3e873538abd262e67bd23e87f30caad2b317[m
+Author: luongngochoa <hoangocluong181197@gmail.com>
+Date:   Tue Mar 29 14:36:27 2022 +0700
+
+    feat(calculation) add function rectangle perimeter
